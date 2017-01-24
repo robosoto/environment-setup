@@ -1,0 +1,15 @@
+[user]
+	email = robsoto@mit.edu
+	name = Roberto Soto
+[color]
+	branch = auto
+	diff = auto
+	interactive = auto
+	status = auto
+	grep = auto
+[alias]
+	graph = log --graph --oneline --decorate --color --all
+[core]
+	editor = vim
+[push]
+	default = simple
